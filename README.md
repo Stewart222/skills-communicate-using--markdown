@@ -34,7 +34,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
 ### Example
-
+# LAGOS TEAM
 ```md
 # This is an `<h1>` header, which is the largest
 
@@ -72,7 +72,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
+--- I added a comment stating " Lagos team"
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
